@@ -1,0 +1,7 @@
+{
+  "name": "typesrypt-asyncawait",
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^1.7.5"
+  }
+}
